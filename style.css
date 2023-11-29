@@ -1,0 +1,75 @@
+body {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    line-height: 1.6;
+    background: #f0f0f0;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+
+header {
+    background: url('header-banner.jpeg') no-repeat center center;
+    background-size: cover;
+    color: #fff;
+    height: 180px;
+    padding: 7px 0;
+    /* Adjust padding to suit the size of your banner */
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+    color: #fff;
+    /* Ensure the title is visible on your banner */
+}
+
+nav {
+    background-color: #333;
+    /* Dark background for the nav bar */
+    text-align: center;
+    /* Centering the nav items */
+    padding: 10px 0;
+    /* Padding above and below the nav items */
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 30px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    /* Adjusted font size */
+    font-size: 1.0em;
+}
+
+main {
+    background: white;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background: #333;
+    color: #fff;
+}
+
+@media only screen and (max-width: 600px) {
+    .container {
+        width: 95%;
+    }
+}
