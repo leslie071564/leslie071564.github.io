@@ -73,3 +73,38 @@ footer {
         width: 95%;
     }
 }
+
+.publication {
+    background-color: #fff;
+    padding: 2px;
+    margin-bottom: 0.5px;
+}
+
+.publication-title {
+    color: #333;
+    font-size: 1.1em;
+    margin-bottom: 0em;
+    margin-top: 0em;
+}
+
+.publication-author,
+.publication-conf {
+    font-size: 1em;
+    margin: 0px 30px;
+    margin-bottom: 0.1em;
+    color: dimgray;
+}
+
+.publication-link {
+    display: inline-block;
+    color: #585858;
+    padding: 0px 15px;
+    border-radius: 5px;
+    font-size: 1em;
+    text-decoration: underline;
+}
+
+.publication-link:hover {
+    font-weight: bold;
+    text-decoration: underline;
+}
