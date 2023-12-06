@@ -108,3 +108,27 @@ footer {
     font-weight: bold;
     text-decoration: underline;
 }
+
+.about-container {
+    display: flex;
+    align-items: center;
+    /* Aligns items vertically in the center */
+    justify-content: start;
+    /* Aligns items to the start of the container */
+    gap: 30px;
+    /* Adds space between the image and the text */
+}
+
+.about-image {
+    width: 150px;
+    /* Adjust the width as needed */
+    height: auto;
+    /* Keeps the aspect ratio of the image */
+    border-radius: 10%;
+    /* Optional: makes the image circular */
+}
+
+.about-text {
+    flex-grow: 1;
+    /* Allows the text section to fill the remaining space */
+}
