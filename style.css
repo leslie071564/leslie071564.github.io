@@ -132,3 +132,35 @@ footer {
     flex-grow: 1;
     /* Allows the text section to fill the remaining space */
 }
+
+.event-container {
+    text-align: center;
+    /* Centers the title */
+    margin: 20px;
+    /* Adds space around the container */
+}
+
+.media-container {
+    display: flex;
+    /* Aligns items in a row */
+    align-items: center;
+    /* Aligns items vertically */
+    justify-content: center;
+    /* Centers items horizontally */
+    gap: 20px;
+    /* Adds space between the image and the video */
+}
+
+.event-image {
+    width: 200px;
+    /* Adjust as needed */
+    height: auto;
+    /* Maintains aspect ratio */
+}
+
+.youtube-video {
+    width: 560px;
+    /* Width of the video */
+    height: 315px;
+    /* Height of the video */
+}
