@@ -1,0 +1,92 @@
+[
+    {
+        "title": "Domain Transferable Semantic Frames for Technical Interview Dialogues",
+        "link": "",
+        "authors": "Taishi Chika, Taro Okahisa, Takashi Kodama, Yin Jou Huang, Yugo Murawaki and Sadao Kurohashi",
+        "conference": "Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024), Turin, Italy, (2024.5)"
+    },
+    {
+        "title": "対話の齟齬と介入による解消：LLM を用いた検討",
+        "link": "https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P5-28.pdf",
+        "authors": "清水周一郎, Yin Jou Huang, 村脇有吾, Chenhui Chu",
+        "conference": "言語処理学会 第30回年次大会 (2024.3)"
+    },
+    {
+        "title": "大規模言語モデルによる時系列を考慮したフェイクニュース生成",
+        "link": "https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/B8-2.pdf",
+        "authors": "原悠貴, Yin Jou Huang, Fei Cheng",
+        "conference": "言語処理学会 第30回年次大会 (2024.3)"
+    },
+    {
+        "title": "Is a Knowledge-based Response Engaging?: An Analysis on Knowledge-Grounded Dialogue with Information Source Annotation",
+        "link": "https://aclanthology.org/2023.acl-srw.34/",
+        "authors": "Takashi Kodama, Hirokazu Kiyomaru, Yin Jou Huang, Taro Okahisa, Sadao Kurohashi",
+        "conference": "Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics: Student Research Workshop (2023.7)"
+    },
+    {
+        "title": "A Frustratingly Simple Conditional Likelihood-based Method for Dialogue Orientation Estimation",
+        "link": "https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/H7-4.pdf",
+        "authors": "Yin Jou Huang and Sadao Kurohashi",
+        "conference": "言語処理学会 第29回年次大会 (2023.3)"
+    },
+    {
+        "title": "https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/H8-2.pdf",
+        "link": "Utilizing Pseudo Dialogue in Conversational Semantic Frame Analysis",
+        "authors": "Shiho Matta, Yin Jou Huang, Hirokazu Kiyomaru, Sadao Kurohashi",
+        "conference": "言語処理学会 第29回年次大会 (2023.3)"
+    },
+    {
+        "title": "情報源のアノテーションによる外部知識に基づいた応答の魅力度の分析",
+        "link": "https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/H1-3.pdf",
+        "authors": "児玉 貴志, 清丸 寛一, Yin-Jou Huang, 岡久 太郎, 黒橋 禎夫",
+        "conference": "言語処理学会 第29回年次大会 (2023.3)"
+    },
+    {
+        "title": "Static and Dynamic Speaker Modeling based on Graph Neural Network for Emotion Recognition in Conversation",
+        "link": "https://aclanthology.org/2022.naacl-srw.31/",
+        "authors": "Prakhar Saxena, Yin Jou Huang and Sadao Kurohashi",
+        "conference": "Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Student Research Workshop (2022.7)"
+    },
+    {
+        "title": "Constructing a Culinary Interview Dialogue Corpus with Video Conferencing Tool",
+        "link": "https://aclanthology.org/2022.lrec-1.335/",
+        "authors": "Taro Okahisa, Ribeka Tanaka, Takashi Kodama, Yin Jou Huang, Sadao Kurohashi",
+        "conference": "Proceedings of the Thirteenth Language Resources and Evaluation Conference (2022.6)"
+    },
+    {
+        "title": "ウェブ会議システムを利用した料理インタビュー対話コーパス",
+        "link": "https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/E2-2.pdf",
+        "authors": "岡久 太郎, 田中 リベカ, 児玉 貴志, Yin Jou Huang, 黒橋 禎夫",
+        "conference": "言語処理学会 第28回年次大会 (2022.3)"
+    },
+    {
+        "title": "Graph Neural Network based Speaker Modeling for Emotion Recognition in Conversation",
+        "link": "https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/B1-3.pdf",
+        "authors": "Prakhar Saxena, Yin Jou Huang and Sadao Kurohashi",
+        "conference": "言語処理学会 第28回年次大会 (2022.3)"
+    },
+    {
+        "title": "Heterogeneous Graph Based Extractive Summarization Considering Discourse and Coreference Relations",
+        "link": "https://www.jstage.jst.go.jp/article/jnlp/28/2/28_651/_pdf",
+        "authors": "Yin Jou Huang and Sadao Kurohashi",
+        "conference": "自然言語処理 2021 年 6 月 (Journal of Natural Language Processing Volume 28 Number 2) (2021.6)"
+    },
+    {
+        "title": "Extractive Summarization Considering Discourse and Coreference Relations based on Heterogeneous",
+        "link": "https://aclanthology.org/2021.eacl-main.265/",
+        "authors": "Yin Jou Huang and Sadao Kurohashi",
+        "conference": "Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics (2021.4)"
+    },
+    {
+        "title": "Improving Event Coreference Resolution by Learning Argument Compatibility from Unlabeled Data",
+        "link": "https://aclanthology.org/N19-1085/",
+        "authors": "Yin Jou Huang, Jing Lu, Sadao Kurohashi and Vincent Ng",
+        "conference": "Proceedings of NAACL-HLT 2019: Annual Conference of the North American Chapter of the Association for Computational Linguistics, Minneapolis, US (2019.6)"
+    },
+    {
+        "title": "Improving Shared Argument Identification in Japanese Event Relation Knowledge Acquisition",
+        "link": "https://aclanthology.org/W17-2704/",
+        "authors": "Yin Jou Huang and Sadao Kurohashi",
+        "conference": "Proceedings of the ACL 2017 Events and Stories in the News Workshop, Vancouver, Canada (2017.7)"
+    }
+]
