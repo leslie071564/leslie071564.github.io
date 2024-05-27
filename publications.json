@@ -1,7 +1,13 @@
 [
     {
-        "title": "Domain Transferable Semantic Frames for Technical Interview Dialogues",
+        "title": "Use of a robot and the personalization of information provision in tourism marketing promotions",
         "link": "",
+        "authors": "Hisashi Masuda, Kanae Kochigami and Huang Yin Jou",
+        "conference": "International Conference on Applied Human Factors and Ergonomics 2024"
+    },
+    {
+        "title": "Domain Transferable Semantic Frames for Technical Interview Dialogues",
+        "link": "https://aclanthology.org/2024.lrec-main.471/",
         "authors": "Taishi Chika, Taro Okahisa, Takashi Kodama, Yin Jou Huang, Yugo Murawaki and Sadao Kurohashi",
         "conference": "Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024), Turin, Italy, (2024.5)"
     },
