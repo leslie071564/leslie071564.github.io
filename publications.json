@@ -1,7 +1,13 @@
 [
     {
+        "title": "Beyond Self-Reports: Multi-Observer Agents for Personality Assessment in Large Language Models",
+        "link": "https://arxiv.org/abs/2504.08399",
+        "authors": "Yin Jou Huang, Rafik Hadfi",
+        "conference": "Arxiv preprint (2025.4)"
+    },
+    {
         "title": "Shaping Personality of Large Language Models: An Approach Based on Representation Engineering",
-        "link": "",
+        "link": "https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/B3-5.pdf",
         "authors": "Yin Jou Huang, Prakhar Saxena, Zi Cheng Zhao",
         "conference": "言語処理学会 第31回年次大会 (2025.3)"
     },
