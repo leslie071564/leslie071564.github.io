@@ -3,7 +3,19 @@
         "title": "Beyond Self-Reports: Multi-Observer Agents for Personality Assessment in Large Language Models",
         "link": "https://arxiv.org/abs/2504.08399",
         "authors": "Yin Jou Huang, Rafik Hadfi",
-        "conference": "Arxiv preprint (2025.4)"
+        "conference": "EMNLP 2025 (2025.11)"
+    },
+    {
+        "title": "How Does Cognitive Bias Affect Large Language Models? A Case Study on the Anchoring Effect in Price Negotiation Simulations",
+        "link": "https://arxiv.org/abs/2508.21137", 
+        "authors": "Yoshiki Takenami, Yin Jou Huang, Yugo Murawaki, Chenhui Chu",
+        "conference": "EMNLP 2025 (2025.11)"
+    },
+    {
+        "title": "International Comparison of the Personalization Effects of Information Provision in Tourism Video Promotions Utilizing Digital Avatar",
+        "link": "https://www.researchgate.net/publication/393131741_International_Comparison_of_the_Personalization_Effects_of_Information_Provision_in_Tourism_Video_Promotions_Utilizing_Digital_Avatar", 
+        "authors": "Hisashi Masuda, Kenta Ichii, Yin Jou Huang",
+        "conference": "AHFE 2025 International Conference"
     },
     {
         "title": "Shaping Personality of Large Language Models: An Approach Based on Representation Engineering",
