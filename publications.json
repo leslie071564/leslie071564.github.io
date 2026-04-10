@@ -1,9 +1,27 @@
 [
     {
+        "title": "Measuring the Symbolic Power of Languages with LLM-based Multilingual Persuasion Simulation",
+        "link": "https://aclanthology.org/2026.latechclfl-1.32/",
+        "authors": "Yin Jou Huang and Fei Cheng",
+        "conference": "SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature 2026 (2026.3)"
+    },
+    {
+        "title": "Predictive Validity of LLM Personality Reports: a Case Study on Classic Economic Games",
+        "link": "https://www.anlp.jp/proceedings/annual_meeting/2026/pdf_dir/Q8-19.pdf",
+        "authors": "Yin Jou Huang, Rafik Hadfi",
+        "conference": "言語処理学会 第32回年次大会 (2026.3)" 
+    },
+    {
         "title": "Beyond Self-Reports: Multi-Observer Agents for Personality Assessment in Large Language Models",
-        "link": "https://arxiv.org/abs/2504.08399",
+        "link": "https://aclanthology.org/2025.findings-emnlp.1150/",
         "authors": "Yin Jou Huang, Rafik Hadfi",
         "conference": "EMNLP 2025 (2025.11)"
+    },
+    {
+        "title": "Personality-Aware Multiagent Large Language Models for Strategic Interactions in Polymatrix Games",
+        "link": "https://dl.acm.org/doi/10.1145/3765766.3765856",
+        "authors": "Rafik Hadfi, Yin Jou Huang",
+        "conference": "the 13th International Conference on Human-Agent Interaction (2025.11)"
     },
     {
         "title": "How Does Cognitive Bias Affect Large Language Models? A Case Study on the Anchoring Effect in Price Negotiation Simulations",
